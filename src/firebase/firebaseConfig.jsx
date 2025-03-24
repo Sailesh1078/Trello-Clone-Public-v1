@@ -6,12 +6,12 @@ import { getFirestore } from 'firebase/firestore'; // Import Firestore
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBdghNRcDhNISj6G0XM4w7MP3Lu40M58uY",
-  authDomain: "publictrelloclone.firebaseapp.com",
-  projectId: "publictrelloclone",
-  storageBucket: "publictrelloclone.firebasestorage.app",
-  messagingSenderId: "972288363295",
-  appId: "1:972288363295:web:a9e670fce22c4e7de6be2a"
+  apiKey: "YOUR_API_KEY",
+  authDomain: "YOUR_AUTH_DOMAIN",
+  projectId: "YOUR_PROJECT_ID",
+  storageBucket: "YOUR_STORAGE_BUCKET",
+  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
+  appId: "YOUR_APP_ID"
 };
 
 // Initialize Firebase
